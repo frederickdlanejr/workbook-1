@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a6a142-f47d-4114-bd1e-42a125e7338b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BasicCalculator/src/main/java/com/pluralsight/PayrollCalculator.java" afterDir="false" />
+    <list default="true" id="545ccba7-7233-4c31-9d34-d8d37eb9445d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/PayrollCalculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BasicCalculator2/src/main/java/com/pluralsight/Calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PayrollCalculator/src/main/java/com/pluralsight/BasicCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicCalculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicCalculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicCalculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PayrollCalculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PayrollCalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicCalculator2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PayrollCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PayrollCalculator/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PayrollCalculator/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,22 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2viucAFN0gw28vIq0IklFeEFxR9" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2vlY2SddsjxLyMQGIHKWYroHoCR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.InputExample.executor": "Run",
-    "Application.Main.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/freddy!/PluralSight/workbook-1/PayrollCalculator",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -54,11 +53,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52a6a142-f47d-4114-bd1e-42a125e7338b" name="Changes" comment="" />
-      <created>1744640297249</created>
+      <changelist id="545ccba7-7233-4c31-9d34-d8d37eb9445d" name="Changes" comment="" />
+      <created>1744720925628</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744640297249</updated>
+      <updated>1744720925628</updated>
     </task>
     <servers />
   </component>
