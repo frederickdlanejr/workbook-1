@@ -19,12 +19,13 @@ public class PayrollCalculator {
 
         double grossPay;
 
-        if (hoursWorked > 40);
+        if (hoursWorked > 40)
             double regularWage = 40 * hourlyWage;
             double overtimePay = (hourlyWage * 1.5) + (hoursWorked - 40);
 
             grossPay = overtimePay + regularWage;
-            else{
+
+            else
             grossPay = hoursWorked * hourlyWage;
         }
         System.out.println("Hello! $s, you worked %.0f hours this week. Your gross pay will be %.0f.", name, hoursWorked, grossPay);
